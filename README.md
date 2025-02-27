@@ -1,6 +1,1 @@
-# Welfenakademie - Einführung Data Analytics mit SAS Enterprise Guide (Feb 2023)
-
-## Einleitung
-
-## 
-
+Welcome to the private internet page of Alexander Braumann.
